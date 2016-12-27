@@ -3,6 +3,7 @@
 [TOC]
 
 > 该章节将实现爬取豆瓣某个音乐下所有乐评的scrapy爬虫。博客地址http://blog.csdn.net/yancey_blog/article/details/53894175
+
 ## 豆瓣乐评分析
 [豆瓣音乐](https://music.douban.com)是国内音乐资料及评论网站，现在我们有个需求就是爬取豆瓣音乐下所有的音乐评论（乐评），但是乐评属于音乐介绍下的子菜单，那么如何来爬取这些乐评呢？咱们先不急，先看看豆瓣乐评的结构。
 以周杰伦的叶惠美为例https://music.douban.com/subject/1406522/
